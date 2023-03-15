@@ -88,7 +88,7 @@ cv2.waitKey(0)
 
 
 ### iii)Shape of the Image
-![OUTPUT](./image/.jpg)
+![OUTPUT](./image/shape.jpg)
 
 ### iv)Access rows and columns
 ![OUTPUT](./image/row.jpg)
