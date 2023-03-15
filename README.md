@@ -79,23 +79,22 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-![image](https://user-images.githubusercontent.com/118679883/224110138-e9c0acd8-adaf-4534-aa98-8832848f93cb.png)
 
+![OUTPUT](./image/read.jpg)
 
 
 ### ii)Write the image
-file:///home/sec/Pictures/Screenshots/212222240050(Kishore).jpg![image](https://user-images.githubusercontent.com/118679883/224110272-2d9a4856-3367-4140-9ef3-666f8fc1d5b8.png)
-
+![OUTPUT](./image/write.jpg)
 
 
 ### iii)Shape of the Image
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-03-09%2023-09-47.png![image](https://user-images.githubusercontent.com/118679883/224110432-49408a43-f825-42a8-bf43-666b56fe122b.png)
-
+![OUTPUT](./image/.jpg)
 
 ### iv)Access rows and columns
-
+![OUTPUT](./image/row.jpg)
 
 ### v)Cut and paste portion of image
+![OUTPUT](./image/cut.jpg)
 
 
 ## Result:
